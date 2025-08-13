@@ -1,0 +1,12 @@
+ {
+  "name": "wolf-spy-bot",
+  "version": "1.0.0",
+  "description": "Bot for Wolf Live - Spy Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "wolf.js": "^2.6.4"
+  }
+}
